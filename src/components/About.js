@@ -9,7 +9,8 @@ const About = () => {
             Hey 👋
         </p>
         <p className="text-base md:text-2xl text-center text-gray-600 leading-relaxed mt-4">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem illum facilis dolorum iusto facere aspernatur explicabo corrupti voluptas nostrum quos?
+           I'm Shivam Agrawal, Currently pursuing my Bachelor's Degree of Computer Application in (Artificial intelligence & Machine learning) from Laxmi Narayan College of Technology. <br> 
+           I'm a Web Developer and willing to build my Career in Web development and want to explore more in this field.
         </p>
 
         <div className="flex justify-center p-20">
